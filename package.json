@@ -1,0 +1,16 @@
+{
+  "name": "bos-altyapi",
+  "version": "1.0.0",
+  "description": "shiva Youtube Boş Altyapı",
+  "main": "bot.js",
+  "scripts": {
+    "test": "node bot.js"
+  },
+  "author": "shiva",
+  "license": "ISC",
+  "dependencies": {
+    "chalk": "^3.0.0",
+    "discord.js": "^14.12.1",
+    "moment": "^2.29.4"
+  }
+}
