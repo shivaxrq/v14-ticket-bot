@@ -21,7 +21,7 @@ Terminalden "npm i" yazarak modülleri indiriniz
 
 **Bize ulaşabileceğiniz sosyal medya bilgilerimiz:**
 
- [![Discord](https://lanyard.cnrad.dev/api/693185687758962698)](https://discord.com/users/693185687758962698)
+ [![Discord](https://lanyard.cnrad.dev/api/693185687758962698)](https://discord.com/users/921504197675991131)
  [![Discord](https://lanyard.cnrad.dev/api/920738699032014848)](https://discord.com/users/920738699032014848)
 
 
